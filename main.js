@@ -8,4 +8,4 @@ document.addEventListener("DOMContentLoaded", () => {
     const material = new THREE.MeshBasicMaterial({color: "FF0000"}); 
     const cube = new THREE.Mesh(geometry, material);
 
-    )
+    })
